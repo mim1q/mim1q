@@ -1,9 +1,14 @@
 import React from 'react';
+import Header from './components/Header';
+import ProjectArticle from './components/ProjectArticle';
 
 const App = () => {
   return (
     <div>
-      <h1>Mim1q</h1>
+      <Header />
+      <ProjectArticle>
+        <p>a</p>
+      </ProjectArticle>
     </div>
   );
 };
