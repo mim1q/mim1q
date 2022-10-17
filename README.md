@@ -1,4 +1,9 @@
-[![Support me on Ko-Fi](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/badges/ko-fi.png)](https://ko-fi.com/mim1q)
+<p align="center">
+  <a href="https://ko-fi.com/mim1q">
+    <img src="https://raw.githubusercontent.com/mim1q/ModPageAssets/main/badges/ko-fi.png" alt="Support me on Ko-Fi">
+  </a>    
+</p>
+
 
 ## Hi, I'm Dominik :wave::smiley_cat:
 
