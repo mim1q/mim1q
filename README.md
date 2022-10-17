@@ -1,3 +1,5 @@
+[![Support me on Ko-Fi](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/badges/ko-fi.png)](https://ko-fi.com/mim1q)
+
 ## Hi, I'm Dominik :wave::smiley_cat:
 
 I create Minecraft mods for the Fabric mod loader!
