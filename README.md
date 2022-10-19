@@ -19,12 +19,12 @@ I love programming, especially in Java, Kotlin and TypeScript :coffee:
 ![Thank you for](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/other/dark-mode/thank-you-for.png#gh-dark-mode-only)
 &nbsp;
 <img
-  src="https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total.svg#gh-light-mode-only"
+  src="https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total.svg?#gh-light-mode-only"
   alt="Download count"
   height="28px"
 />
 <img
-  src="https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total-dark.svg#gh-dark-mode-only"
+  src="https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total-dark.svg?#gh-dark-mode-only"
   alt="Download count"
   height="28px"
 />
