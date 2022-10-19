@@ -15,6 +15,13 @@ I love programming, especially in Java, Kotlin and TypeScript :coffee:
 
 ### **Minecraft Mods**
 
+![Thank you for](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/other/light-mode/thank-you-for.png#gh-light-mode-only)
+![Thank you for](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/other/dark-mode/thank-you-for.png#gh-dark-mode-only)
+![Download count](https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total.svg#gh-light-mode-only)
+![Download count](https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total-dark.svg#gh-dark-mode-only)
+![Downloads](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/other/light-mode/downloads.png#gh-light-mode-only)
+![Downloads](https://raw.githubusercontent.com/mim1q/ModPageAssets/main/other/dark-mode/downloads.png#gh-dark-mode-only)
+
 - **Mine Cells**  
   [GitHub](https://github.com/mim1q/MineCells) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecells) | [Modrinth](https://modrinth.com/mod/minecells)
   
