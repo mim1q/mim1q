@@ -9,7 +9,7 @@
 
 I create Minecraft mods for the Fabric mod loader!
 
-I love programming, especially in Java, Kotlin and TypeScript :coffee:
+I love programming, especially in Java, Kotlin and Python.
 
 ## Notable projects
 
@@ -42,18 +42,24 @@ I love programming, especially in Java, Kotlin and TypeScript :coffee:
   
   Convenient Name Tags is a simple Minecraft mod that implements a new GUI Screen, which is opened after right clicking a Name Tag item.
   It enables you to rename a Name Tag without the use of an anvil.
-
+  
+  
 - **Mim1q's Fabric Mod Template**  
   [GitHub](https://github.com/mim1q/Mim1qFabricTemplate)
 
   Simple template for creating Minecraft Mods with Java, using Fabric and Kotlin DSL.
 
+### **Personal Projects**
+
+- **Mim1q's Download Counter**  
+  [GitHub](https://github.com/mim1q/DownloadCounter)
+  
+  Special badge generator whose purpose is to display the sum of my mods' downloads (updates daily). You can see its result above, under the "Minecraft Mods" header!
+
 - **Mim1q's Minecraft Mod Project Page Assets**  
   [GitHub](https://github.com/mim1q/ModPageAssets)
 
   A collection of pixel art-style badges and section headers for my Minecraft mod pages. Free for everyone to use on the condition of including a credit notice.
-
-- *More to come in the future!*
 
 ### **School Projects**
 
