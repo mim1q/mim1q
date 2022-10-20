@@ -2,6 +2,9 @@
   <a href="https://ko-fi.com/mim1q">
     <img src="https://raw.githubusercontent.com/mim1q/ModPageAssets/main/badges/ko-fi.png" alt="Support me on Ko-Fi">
   </a>    
+  <a href="https://discord.gg/6TjQbSjbuB">
+    <img src="https://raw.githubusercontent.com/mim1q/ModPageAssets/main/badges/discord.png" alt="Join my Discord">
+  </a>
 </p>
 
 
