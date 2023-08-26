@@ -13,4 +13,4 @@
 I create Minecraft mods for the Fabric mod loader!   
 I love programming, especially in Kotlin 😸
 
-## [Check out my projects on my website!](https://mim1q.github.io/)
+## [Check out my projects on my website!](https://mim1q.dev/)
