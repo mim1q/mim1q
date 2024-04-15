@@ -29,7 +29,7 @@ It is my first, most ambitious, and most successful project to date. It has been
 
 A custom [3D Weapon Resource Pack](https://legacy.curseforge.com/minecraft/texture-packs/mine-cells-3d-weapons-pack) is also available for Mine Cells.
 
-<br><br><br>
+<br><br>
 
 <img src="./derelict.png" alt="Mine Cells screenshot" width="300px" align="right">
 
@@ -41,7 +41,7 @@ A custom [3D Weapon Resource Pack](https://legacy.curseforge.com/minecraft/textu
 
 Derelict introduces a bunch of new run-down decorative content to Minecraft and utilities that make building abandoned structures a breeze. More exciting gameplay features are planned for the future!
 
-<br><br><br><br><br><br><br><br>
+<br><br><br>
 
 ### Gimm1q
 
