@@ -12,11 +12,11 @@ Currently, I'm also an Information Technology student and a kids' programming tu
 
 ## Notable projects
 
-![Java](https://img.shields.io/badge/Java-white?logo=openjdk&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-white?logo=kotlin&logoColor=black)
-![Gradle](https://img.shields.io/badge/Gradle-white?logo=gradle&logoColor=black)
-![Minecraft](https://img.shields.io/badge/Minecraft-white?logo=minecraft&logoColor=black)
-![Fabric API](https://img.shields.io/badge/Fabric_API-white?logo=minecraft&logoColor=black)
+[![Java](https://img.shields.io/badge/Java-white?logo=openjdk&logoColor=black)](https://openjdk.org)
+[![Kotlin](https://img.shields.io/badge/Kotlin-white?logo=kotlin&logoColor=black)](https://kotlinlang.org)
+[![Gradle](https://img.shields.io/badge/Gradle-white?logo=gradle&logoColor=black)](https://gradle.org)
+[![Minecraft](https://img.shields.io/badge/Minecraft-white?logo=minecraft&logoColor=black)](https://www.minecraft.net)
+[![Fabric](https://img.shields.io/badge/Fabric_API-white?logo=minecraft&logoColor=black)](https://fabricmc.net)
 
 Most of my projects' source code is available on GitHub! I encourage everyone who wants to start modding Minecraft to check them out, learn from them, and contribute if they want to!
 
@@ -25,7 +25,6 @@ However, please keep in mind that the artistic assets (textures, models, sounds,
 <img src="./minecells.png" alt="Mine Cells screenshot" width="300px" align="right">
 
 ### Mine Cells
-
 
 <a href="https://www.curseforge.com/minecraft/mc-mods/minecells"><img src="https://img.shields.io/static/v1?label=&message=Download+on+CurseForge&color=orange&logo=curseforge&logoColor=white" alt="Download on CurseForge"></a>
 <a href="https://modrinth.com/mod/minecells"><img src="https://img.shields.io/static/v1?label=&message=Download+on+Modrinth&color=green&logo=modrinth&logoColor=white" alt="Download on Modrinth"></a>
