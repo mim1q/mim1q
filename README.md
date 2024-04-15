@@ -14,8 +14,10 @@ Currently, I'm also an Information Technology student and a kids' programming tu
 
 Most of my projects' source code is available on GitHub! I encourage everyone who wants to start modding Minecraft to check them out, learn from them, and contribute if they want to! :smiley:  
 However, please keep in mind that the artistic assets (textures, models, sounds, etc.) are explicitly not licensed for redistribution. Please respect this and do not use them in your own projects.
-- ### Mine Cells
+
 <img src="./minecells.png" alt="Mine Cells screenshot" width="300px" align="right">
+
+### Mine Cells
 
 
 <a href="###"><img src="https://img.shields.io/static/v1?label=&message=Download+on+CurseForge&color=orange&logo=curseforge&logoColor=white" alt="Download on CurseForge"></a>
@@ -27,9 +29,11 @@ It is my first, most ambitious, and most successful project to date. It has been
 
 A custom [3D Weapon Resource Pack](https://legacy.curseforge.com/minecraft/texture-packs/mine-cells-3d-weapons-pack) is also available for Mine Cells.
 
-- ### Derelict
+<br><br><br>
 
 <img src="./derelict.png" alt="Mine Cells screenshot" width="300px" align="right">
+
+### Derelict
 
 <a href="###"><img src="https://img.shields.io/static/v1?label=&message=Download+on+CurseForge&color=orange&logo=curseforge&logoColor=white" alt="Download on CurseForge"></a>
 <a href="###"><img src="https://img.shields.io/static/v1?label=&message=Download+on+Modrinth&color=green&logo=modrinth&logoColor=white" alt="Download on Modrinth"></a>
@@ -37,7 +41,9 @@ A custom [3D Weapon Resource Pack](https://legacy.curseforge.com/minecraft/textu
 
 Derelict introduces a bunch of new run-down decorative content to Minecraft and utilities that make building abandoned structures a breeze. More exciting gameplay features are planned for the future!
 
-- ### Gimm1q
+<br><br><br><br><br><br><br><br>
+
+### Gimm1q
 
 <a href="###"><img src="https://img.shields.io/static/v1?label=&message=View+the+source+code&color=black&logo=github&logoColor=white" alt="View the source code"></a>
 
