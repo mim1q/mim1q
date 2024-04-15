@@ -1,16 +1,50 @@
+## Hi, my name is Dominik :wave::smiley_cat:
+
+But online, you can call me Mim1q! :grin:
+
+I'm a Minecraft Fabric mod developer, pixel artist, and a member of [Luna Pixel Studios](https://www.bisecthosting.com/p/lunapixel).   
+Currently, I'm also an Information Technology student and a kids' programming tutor :computer::notebook:
+
 <p align="center">
-  <a href="https://ko-fi.com/mim1q">
-    <img src="https://raw.githubusercontent.com/mim1q/ModPageAssets/main/badges/ko-fi.png" alt="Support me on Ko-Fi">
-  </a>    
-  <a href="https://discord.gg/6TjQbSjbuB">
-    <img src="https://raw.githubusercontent.com/mim1q/ModPageAssets/main/badges/discord.png" alt="Join my Discord">
-  </a>
+  <a href="https://ko-fi.com/mim1q"><img src="https://img.shields.io/static/v1?label=+&message=Support+me+on+Ko-Fi!&color=red&style=for-the-badge&logo=kofi&logoColor=white" alt="  - Support me on Ko-Fi!"></a>
+  <a href="https://ko-fi.com/mim1q"><img src="https://img.shields.io/static/v1?label=+&message=Join+my+Discord+community&color=blue&style=for-the-badge&logo=discord&logoColor=white" alt="  - Join my Discord community"></a>
 </p>
 
+## Notable projects
 
-## Hi, I'm Dominik :wave::smiley_cat:
+Most of my projects' source code is available on GitHub! I encourage everyone who wants to start modding Minecraft to check them out, learn from them, and contribute if they want to! :smiley:  
+However, please keep in mind that the artistic assets (textures, models, sounds, etc.) are explicitly not licensed for redistribution. Please respect this and do not use them in your own projects.
+- ### Mine Cells
+<img src="./minecells.png" alt="Mine Cells screenshot" width="300px" style="float: right;">
 
-I create Minecraft mods for the Fabric mod loader!   
-I love programming, especially in Kotlin 😸
 
-## [Check out my projects on my website!](https://mim1q.dev/)
+<a href="###"><img src="https://img.shields.io/static/v1?label=&message=Download+on+CurseForge&color=orange&logo=curseforge&logoColor=white" alt="Download on CurseForge"></a>
+<a href="###"><img src="https://img.shields.io/static/v1?label=&message=Download+on+Modrinth&color=green&logo=modrinth&logoColor=white" alt="Download on Modrinth"></a>
+<a href="###"><img src="https://img.shields.io/static/v1?label=&message=View+the+source+code&color=black&logo=github&logoColor=white" alt="View the source code"></a>
+
+Mine Cells is a Minecraft mod bringing the world of Dead Cells into Minecraft. It features multiple dimensions, new mobs, weapons, game mechanics and more!  
+It is my first, most ambitious, and most successful project to date. It has been featured in multiple fantastic modpacks, such as [Prominence II RPG](https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg), [Fantasy MC](https://www.curseforge.com/minecraft/modpacks/fantasy-minecraft-fabric) and many more!
+
+A custom [3D Weapon Resource Pack](https://legacy.curseforge.com/minecraft/texture-packs/mine-cells-3d-weapons-pack) is also available for Mine Cells.
+
+- ### Derelict
+
+<img src="./derelict.png" alt="Mine Cells screenshot" width="300px" style="float: right;">
+
+<a href="###"><img src="https://img.shields.io/static/v1?label=&message=Download+on+CurseForge&color=orange&logo=curseforge&logoColor=white" alt="Download on CurseForge"></a>
+<a href="###"><img src="https://img.shields.io/static/v1?label=&message=Download+on+Modrinth&color=green&logo=modrinth&logoColor=white" alt="Download on Modrinth"></a>
+<a href="###"><img src="https://img.shields.io/static/v1?label=&message=View+the+source+code&color=black&logo=github&logoColor=white" alt="View the source code"></a>
+
+Derelict introduces a bunch of new run-down decorative content to Minecraft and utilities that make building abandoned structures a breeze. More exciting gameplay features are planned for the future!
+
+- ### Gimm1q
+
+<a href="###"><img src="https://img.shields.io/static/v1?label=&message=View+the+source+code&color=black&logo=github&logoColor=white" alt="View the source code"></a>
+
+Gimm1q is a small library I use in my mods to simplify some common tasks and provide utilities that are not present in the Fabric API. It's fully documented and open-source, so feel free to include it in your projects!
+
+Some of the features include:
+- Screen shaking utilities
+- Handheld model swapping
+- Block highlighting API
+
