@@ -49,6 +49,8 @@ Derelict introduces a bunch of new run-down decorative content to Minecraft and 
 
 <br><br><br>
 
-### Gimm1q
+### Gimm1q 
+
+<a href="https://github.com/mim1q/gimm1q"><img src="https://img.shields.io/static/v1?label=&message=View+the+source+code&color=black&logo=github&logoColor=white" alt="View the source code"></a>
 
 Gimm1q is a small library I use in my mods to simplify some common tasks and provide utilities that are not present in the Fabric API. It's fully documented and open-source, so feel free to include it in your projects! The full feature list is available in the [repository's README](https://github.com/mim1q/gimm1q).
