@@ -15,7 +15,7 @@ Currently, I'm also an Information Technology student and a kids' programming tu
 Most of my projects' source code is available on GitHub! I encourage everyone who wants to start modding Minecraft to check them out, learn from them, and contribute if they want to! :smiley:  
 However, please keep in mind that the artistic assets (textures, models, sounds, etc.) are explicitly not licensed for redistribution. Please respect this and do not use them in your own projects.
 - ### Mine Cells
-<img src="./minecells.png" alt="Mine Cells screenshot" width="300px" style="float: right;">
+<img src="./minecells.png" alt="Mine Cells screenshot" width="300px" align="right">
 
 
 <a href="###"><img src="https://img.shields.io/static/v1?label=&message=Download+on+CurseForge&color=orange&logo=curseforge&logoColor=white" alt="Download on CurseForge"></a>
@@ -29,7 +29,7 @@ A custom [3D Weapon Resource Pack](https://legacy.curseforge.com/minecraft/textu
 
 - ### Derelict
 
-<img src="./derelict.png" alt="Mine Cells screenshot" width="300px" style="float: right;">
+<img src="./derelict.png" alt="Mine Cells screenshot" width="300px" align="right">
 
 <a href="###"><img src="https://img.shields.io/static/v1?label=&message=Download+on+CurseForge&color=orange&logo=curseforge&logoColor=white" alt="Download on CurseForge"></a>
 <a href="###"><img src="https://img.shields.io/static/v1?label=&message=Download+on+Modrinth&color=green&logo=modrinth&logoColor=white" alt="Download on Modrinth"></a>
