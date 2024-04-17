@@ -37,7 +37,7 @@ A custom [3D Weapon Resource Pack](https://legacy.curseforge.com/minecraft/textu
 
 <br><br>
 
-<img src="./derelict.png" alt="Mine Cells screenshot" width="300px" align="right">
+<img src="./derelict.jpg" alt="Mine Cells screenshot" width="300px" align="right">
 
 ### Derelict
 
