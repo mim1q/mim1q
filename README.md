@@ -53,4 +53,12 @@ Derelict introduces a bunch of new run-down decorative content to Minecraft and 
 
 <a href="https://github.com/mim1q/gimm1q"><img src="https://img.shields.io/static/v1?label=&message=View+the+source+code&color=111133&logo=github&logoColor=eeeeee" alt="View the source code"></a>
 
+
+
 Gimm1q is a small library I use in my mods to simplify some common tasks and provide utilities that are not present in the Fabric API. It's fully documented and open-source, so feel free to include it in your projects! The full feature list is available in the [repository's README](https://github.com/mim1q/gimm1q).
+
+### Ta-da
+
+<a href="https://github.com/mim1q/ta-da"><img src="https://img.shields.io/static/v1?label=&message=View+the+source+code&color=111133&logo=github&logoColor=eeeeee" alt="View the source code"></a>
+
+My custom data file generation utility for Minecraft mods. Lets you generate hundreds of necessary asset/data json files with a few lines of code! Includes multiple built-in presets for block and item models, block drops, tags, as well as image atlas splitting, language file utilities, and more!
